@@ -1,4 +1,4 @@
-# Mariano Torres Ponce — DevOps & MLOps
+# Mariano Torres Ponce - DevOps & MLOps
 
 DevOps & Cloud Engineer. Kubernetes (EKS/OpenShift), Terraform, CI/CD (Jenkins/GitHub Actions), Docker/FastAPI, Observabilidad (Prometheus, Grafana), MLOps (MLflow).
 
