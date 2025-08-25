@@ -1,4 +1,5 @@
 # Mariano E. T. P. - DevOps & MLOps
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--6284--3867-A6CE39?logo=orcid&logoColor=white&style=flat-square)](https://orcid.org/0009-0009-6284-3867)
 
 DevOps & Cloud Engineer. Kubernetes (EKS/OpenShift), Terraform, CI/CD (Jenkins/GitHub Actions),
 Docker/FastAPI, Observabilidad (Prometheus, Grafana), MLOps (MLflow).
