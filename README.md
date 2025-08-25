@@ -6,7 +6,7 @@ DevOps & Cloud Engineer. Kubernetes (EKS/OpenShift), Terraform, CI/CD (Jenkins/G
 - **[github-observability-demo](https://github.com/mariano-tp/github-observability-demo)** - Prometheus + Grafana + exporter para métricas de GitHub.  
   ![compose-validate](https://github.com/mariano-tp/github-observability-demo/actions/workflows/compose-validate.yml/badge.svg?branch=main)
 
-- **[fastapi-observability-demo](https://github.com/mariano-tp/fastapi-observability-demo)** - API mínima FastAPI con métricas y stack local (Prometheus + Grafana).
+- **[terraform-local-demo](https://github.com/mariano-tp/terraform-local-demo)** - Terraform sin nubes (local + random). CI con GitHub Actions (fmt/validate).
 
 > Repos sin dependencias de empresas ni cuentas cloud; todo se corre local o 100% online con GitHub Actions.
 
