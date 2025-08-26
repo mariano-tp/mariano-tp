@@ -1,4 +1,4 @@
-# Mariano T. P. — DevOps & MLOps
+# Mariano T. P. - DevOps & MLOps
 
 DevOps & Cloud Engineer. Kubernetes (EKS/OpenShift), Terraform, CI/CD (Jenkins/GitHub Actions),
 Docker/FastAPI, Observabilidad (Prometheus, Grafana) y MLOps (MLflow).
