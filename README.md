@@ -23,6 +23,9 @@ Docker/FastAPI, Observabilidad (Prometheus, Grafana) y MLOps (MLflow).
 - **[ML Mini Pipeline](https://github.com/mariano-tp/ml-mini-pipeline)** – Mini pipeline de ML (scikit-learn) que genera datos sintéticos, entrena y publica artefactos (`model.pkl`, `metrics.json`) con CI.  
   [![ci](https://github.com/mariano-tp/ml-mini-pipeline/actions/workflows/ci.yml/badge.svg?branch=main&style=flat-square)](https://github.com/mariano-tp/ml-mini-pipeline/actions/workflows/ci.yml)
 
+- **[MLflow Mini Experiments](https://github.com/mariano-tp/mlflow-mini-experiments)** – Tracking de experimentos con **MLflow**: logging de parámetros, métricas y modelos, CI reproducible en GitHub Actions y opción de UI local con Docker Compose.  
+  [![ci](https://github.com/mariano-tp/mlflow-mini-experiments/actions/workflows/ci.yml/badge.svg?branch=main&style=flat-square)](https://github.com/mariano-tp/mlflow-mini-experiments/actions/workflows/ci.yml)
+
 > Repos sin dependencias de empresas ni cuentas cloud; todo corre local o 100% online con GitHub Actions.
 
 ## Qué puedo aportar
@@ -31,4 +34,4 @@ Docker/FastAPI, Observabilidad (Prometheus, Grafana) y MLOps (MLflow).
 - **Kubernetes & delivery:** empaquetado con **Helm**, despliegues versionados y rollouts controlados.
 - **Observabilidad práctica:** métricas de app y de modelo (latencia/throughput/error-rate, drift básico), dashboards Grafana y health checks.
 - **CI/CD de apps y modelos:** pipelines con **pytest**, build de contenedores, artefactos y releases semánticas en GitHub Actions.
-- **Fundamentos de MLOps:** tracking simple de experimentos, versionado de datos/modelo y empaquetado para inferencia (FastAPI + Docker).
+- **Fundamentos de MLOps:** desde pipelines simples (scikit-learn) hasta **tracking de experimentos en MLflow**, versionado de modelos y reproducibilidad.
