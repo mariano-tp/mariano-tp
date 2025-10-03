@@ -52,5 +52,5 @@ Cloud & DevOps Engineer focused on resilient, reproducible infrastructure and ML
 - MLOps: MLflow tracking, artifact/version management, basic drift monitoring
 
 ## Publications & Profiles
-- Google Scholar: [Profile](https://scholar.google.com/citations?hl=en&user=FCQXlNMAAAAJ)
-- GitHub: [Profile](https://github.com/mariano-tp/academic-impact)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=FCQXlNMAAAAJ)  
+- [GitHub](https://github.com/mariano-tp/academic-impact)
