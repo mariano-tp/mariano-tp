@@ -1,3 +1,5 @@
+# Mariano T. P. - DevOps & MLOps
+
 Cloud & DevOps Engineer focused on resilient, reproducible infrastructure and MLOps automation. I build CI/CD pipelines, Kubernetes/Helm delivery, and observability stacks that run locally or in the cloud—with zero vendor lock-in for demos and testing.
 
 - Kubernetes (EKS/OpenShift) · Terraform/IaC · CI/CD (GitHub Actions/Jenkins)  
