@@ -14,31 +14,31 @@ Cloud & DevOps Engineer focused on resilient, reproducible infrastructure and ML
 ## Featured Projects
 
 ### Infrastructure as Code
-- **[Terraform Local Demo](https://github.com/mariano-tp/terraform-local-demo)** — Reproducible infra without cloud providers (`local` + `random`). CI with `fmt` and `validate`.  
+- **[Terraform Local Demo](https://github.com/mariano-tp/terraform-local-demo)** - Reproducible infra without cloud providers (`local` + `random`). CI with `fmt` and `validate`.  
   [![terraform-ci](https://github.com/mariano-tp/terraform-local-demo/actions/workflows/terraform-ci.yml/badge.svg?branch=main&style=flat-square)](https://github.com/mariano-tp/terraform-local-demo/actions/workflows/terraform-ci.yml)
 
-- **[AWS Serverless Local Demo](https://github.com/mariano-tp/aws-serverless-local-demo)** — Serverless “without the cloud”: S3 + SQS + DynamoDB on LocalStack, with integration tests and CI in GitHub Actions.  
+- **[AWS Serverless Local Demo](https://github.com/mariano-tp/aws-serverless-local-demo)** - Serverless “without the cloud”: S3 + SQS + DynamoDB on LocalStack, with integration tests and CI in GitHub Actions.  
   [![ci](https://github.com/mariano-tp/aws-serverless-local-demo/actions/workflows/ci.yml/badge.svg?branch=main&style=flat-square)](https://github.com/mariano-tp/aws-serverless-local-demo/actions/workflows/ci.yml)
 
 ### Kubernetes & Delivery
-- **[Helm Chart Skeleton](https://github.com/mariano-tp/helm-chart-skeleton)** — Chart skeleton for K8s deployments with CI (lint + template) and automated releases.  
+- **[Helm Chart Skeleton](https://github.com/mariano-tp/helm-chart-skeleton)** - Chart skeleton for K8s deployments with CI (lint + template) and automated releases.  
   [![chart-ci](https://github.com/mariano-tp/helm-chart-skeleton/actions/workflows/chart-ci.yml/badge.svg?branch=main&style=flat-square)](https://github.com/mariano-tp/helm-chart-skeleton/actions/workflows/chart-ci.yml)
 
-- **[Kubernetes Admin Ops Kit](https://github.com/mariano-tp/k8s-admin-ops-kit)** — Runbooks-as-code for K8s admins: Ansible playbooks (cordon/drain, ordered restarts, rollback), Helm chart (api/worker/nlp with probes, PDB, NetworkPolicy), and CI with KinD.  
+- **[Kubernetes Admin Ops Kit](https://github.com/mariano-tp/k8s-admin-ops-kit)** - Runbooks-as-code for K8s admins: Ansible playbooks (cordon/drain, ordered restarts, rollback), Helm chart (api/worker/nlp with probes, PDB, NetworkPolicy), and CI with KinD.  
   [![ci](https://github.com/mariano-tp/k8s-admin-ops-kit/actions/workflows/ci.yml/badge.svg?branch=main&style=flat-square)](https://github.com/mariano-tp/k8s-admin-ops-kit/actions/workflows/ci.yml)
 
 ### Observability
-- **[FastAPI Observability Demo](https://github.com/mariano-tp/fastapi-observability-demo)** — FastAPI service with `/metrics`, tests, and CI (pytest + Docker build).  
+- **[FastAPI Observability Demo](https://github.com/mariano-tp/fastapi-observability-demo)** - FastAPI service with `/metrics`, tests, and CI (pytest + Docker build).  
   [![ci](https://github.com/mariano-tp/fastapi-observability-demo/actions/workflows/ci.yml/badge.svg?branch=main&style=flat-square)](https://github.com/mariano-tp/fastapi-observability-demo/actions/workflows/ci.yml)
 
-- **[GitHub Observability Demo](https://github.com/mariano-tp/github-observability-demo)** — Prometheus + Grafana stack + exporter for GitHub metrics.  
+- **[GitHub Observability Demo](https://github.com/mariano-tp/github-observability-demo)** - Prometheus + Grafana stack + exporter for GitHub metrics.  
   [![compose-validate](https://github.com/mariano-tp/github-observability-demo/actions/workflows/compose-validate.yml/badge.svg?branch=main&style=flat-square)](https://github.com/mariano-tp/github-observability-demo/actions/workflows/compose-validate.yml)
 
 ### MLOps
-- **[ML Mini Pipeline](https://github.com/mariano-tp/ml-mini-pipeline)** — Mini ML pipeline (scikit-learn) that generates synthetic data, trains, and publishes artifacts (`model.pkl`, `metrics.json`) with CI.  
+- **[ML Mini Pipeline](https://github.com/mariano-tp/ml-mini-pipeline)** - Mini ML pipeline (scikit-learn) that generates synthetic data, trains, and publishes artifacts (`model.pkl`, `metrics.json`) with CI.  
   [![ci](https://github.com/mariano-tp/ml-mini-pipeline/actions/workflows/ci.yml/badge.svg?branch=main&style=flat-square)](https://github.com/mariano-tp/ml-mini-pipeline/actions/workflows/ci.yml)
 
-- **[MLflow Mini Experiments](https://github.com/mariano-tp/mlflow-mini-experiments)** — Experiment tracking with MLflow: parameters, metrics, and models; reproducible CI; optional local UI with Docker Compose.  
+- **[MLflow Mini Experiments](https://github.com/mariano-tp/mlflow-mini-experiments)** - Experiment tracking with MLflow: parameters, metrics, and models; reproducible CI; optional local UI with Docker Compose.  
   [![ci](https://github.com/mariano-tp/mlflow-mini-experiments/actions/workflows/ci.yml/badge.svg?branch=main&style=flat-square)](https://github.com/mariano-tp/mlflow-mini-experiments/actions/workflows/ci.yml)
 
 > All repos are free of corporate/cloud dependencies; everything runs locally or fully online via GitHub Actions.
@@ -53,4 +53,4 @@ Cloud & DevOps Engineer focused on resilient, reproducible infrastructure and ML
 
 ## Publications & Profiles
 - Google Scholar: [Profile](https://scholar.google.com/citations?hl=en&user=FCQXlNMAAAAJ)
-- GitHub: [Profile](https://github.com/mariano-tp](https://github.com/mariano-tp/academic-impact)
+- GitHub: [Profile](https://github.com/mariano-tp/academic-impact)
