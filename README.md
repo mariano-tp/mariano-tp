@@ -55,4 +55,4 @@ Cloud & DevOps Engineer focused on resilient, reproducible infrastructure and ML
 
 ## Publications & Profiles
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=FCQXlNMAAAAJ)  
-- [GitHub](https://github.com/mariano-tp/academic-impact)
+- [GitHub](https://github.com/mariano-tp/academic-impact/blob/main/README.md)
