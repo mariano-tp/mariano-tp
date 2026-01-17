@@ -55,4 +55,4 @@ Cloud & DevOps Engineer enfocado en infraestructura resiliente y reproducible, y
 
 ## Publicaciones y perfiles
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=FCQXlNMAAAAJ)  
-- [GitHub](https://github.com/mariano-tp/academic-impact)
+- [GitHub](https://github.com/mariano-tp/academic-impact/blob/main/README.ES.md)
