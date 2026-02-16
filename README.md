@@ -52,7 +52,3 @@ Cloud & DevOps Engineer focused on resilient, reproducible infrastructure and ML
 - Observability: Prometheus exporters, Grafana dashboards, health checks
 - Python & APIs: FastAPI services, pytest, Dockerized builds
 - MLOps: MLflow tracking, artifact/version management, basic drift monitoring
-
-## Publications & Profiles
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=FCQXlNMAAAAJ)  
-- [GitHub](https://github.com/metorresponce/academic-impact/blob/main/README.md)
